@@ -1,0 +1,21 @@
+
+~
+# Videos
+assets/video/
+*.mp4
+*.mov
+*.webm
+
+# Certificates
+assets/certificates/
+
+# Optional large images
+# assets/img/portfolio/
+
+# Build/system
+dist/
+build/
+*.log
+
+# Node (if applicable)
+node_modules/
