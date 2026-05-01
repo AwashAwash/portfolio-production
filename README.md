@@ -1,9 +1,36 @@
 <img width="1902" height="129" alt="host provider" src="https://github.com/user-attachments/assets/8aa9da80-7120-4444-bafb-a87af9e50787" />
 
+
+
+
+
+
 <img width="2688" height="361" alt="ubuntu vps" src="https://github.com/user-attachments/assets/8e94e576-ab73-401d-afaf-db0cf554c6af" />
+
+
+
+
+
+
 <img width="2814" height="419" alt="rocky" src="https://github.com/user-attachments/assets/ce129f10-1acc-4336-b1df-c14ff4fc9541" />
+
+
+
+
+
+
 <img width="3298" height="326" alt="rocky1" src="https://github.com/user-attachments/assets/38ae133a-d69b-4716-b549-876e62b4a7d1" />
+
+
+
+
+
+
+
 <img width="1359" height="129" alt="rocky2" src="https://github.com/user-attachments/assets/0c5d373d-3bc5-4f18-92a1-68beb5abff44" />
+
+
+
 
 
 
